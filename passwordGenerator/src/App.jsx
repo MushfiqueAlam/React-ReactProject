@@ -29,7 +29,7 @@ function App() {
   return (
     <>
      <h1 className="text-3xl font-bold underline text-center ">
-      Password
+      Password Genrator
     </h1>
     <div className='w-full shadow-md mx-auto max-w-md rounded-lg px-4 py-3 my-8 text-orange-50 bg-gray-700'>
       <div className='flex shadow rounded-lg overflow-hidden mb-4'>
